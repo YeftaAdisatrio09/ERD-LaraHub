@@ -1,0 +1,10 @@
+Nama : LaraHub
+
+1. Menyimpan Profil Pribadi <
+  1.1 Membuat Dan Memperbaharui Profil Pribadi <
+2. Forum Tanya Jawab <
+  2.1 Penanya Dapat Memilih Jawaban Yang Tepat <
+  2.2 Pertanyaan Dan Jawaban Dapat Memiliki Komentar <
+  2.3 Dapat Memberikan Like dan Dislike<
+  2.4 Memiliki Jumlah Vote (Like-Dislike)<
+3. Forum Lowongan/Kerja
